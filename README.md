@@ -22,3 +22,7 @@ Der Keil befindet sich in einer Testphase und wir können keine Garantien für e
 - Edelstahlblech (wir haben 2mm verwendet)
 - Nuss 1/2 Zoll 10mm (für die Aufnahme an der Spindel)
 - eventuell Acrylglas für Seitenteile (können auch 3D gedruckt werden)
+
+
+# Weitere Informationen
+HBNB Motorsägen Youtube: [Drück mich!](www.youtube.com/c/HBNBMotorsägen)
